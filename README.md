@@ -3,6 +3,6 @@
 
 #### Hello, I'm Kifen 👋
 
-I'm a Software Engineer deeply into Rust and applied cryptography. I enjoy turning complex problems into clean, efficient code.
+Software Engineer | Rust enthusiast
 
 📫 Reach out at: [kifenraph@gmail.com](mailto:kifenraph@gmail.com)
