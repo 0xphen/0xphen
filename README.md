@@ -1,8 +1,16 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/asemekifen/))
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)]([https://twitter.com/YOUR_TWITTER_HANDLE](https://twitter.com/keyphen))
+### Hi there 👋 I'm Kifen
 
-#### Hello, I'm Kifen 👋
+**Software & Robotics Engineer | Systems Programmer**
 
-Software Engineer | Rust enthusiast
+I'm a Master's student in Robotics with a passion for building high-performance, low-level systems. My expertise lies in modern C++ and Rust, and I'm currently focused on:
 
-📫 Reach out at: [kifenraph@gmail.com](mailto:kifenraph@gmail.com)
+* **Robotics & State Estimation:** Focused on mobile robotics, Autonomous Systems, control theory, and computer vision.
+* **Systems Programming:** Building efficient, reliable, and scalable low-level software.
+
+---
+
+#### 📫 Let's Connect
+
+* **Email:** kifenraph@gmail.com
+* **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/asemekifen/)
+* **Twitter:** [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/keyphen)
