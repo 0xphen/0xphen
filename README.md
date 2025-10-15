@@ -10,7 +10,6 @@ I'm a Master's student in Robotics with a passion for building high-performance,
 ---
 
 #### 📫 Let's Connect
-
 * **Email:** kifenraph@gmail.com
 * **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/asemekifen/)
 * **Twitter:** [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-blue)](https://twitter.com/keyphen)
